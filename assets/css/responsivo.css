@@ -1,5 +1,7 @@
 @media screen and (min-width: 0) {
-	
+	.menu__link {
+		padding: .5rem ; 
+    }
 	.destaques__principal, .destaques__categorias {
         grid-column: 1/5;
     }

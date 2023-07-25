@@ -1,6 +1,5 @@
 # <h1 align="center">Site feito durante um curso de CSS utilizando CSS Grid, responsivo para todas as telas.</h1>
-<br>
-<h3 align="center">responsiva para todas as telas</h3>
+
 <br>
 <h3 align="center">Tela para desktop</h3>
 
